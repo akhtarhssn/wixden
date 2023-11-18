@@ -13,7 +13,7 @@
 
 <p align="center"> 
   <samp>    
-    「 I am a MERN stack web appplication developer from <b>Bangladesh</b> 」
+    「 I am a MERN STACK web appplication developer from <b>Bangladesh</b> 」
     <br>
     <br>
   </samp>
